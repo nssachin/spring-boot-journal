@@ -26,7 +26,7 @@ public @interface SpringBootApplication
        -------> @Configuration
 ```
 * The key for Spring Boot is `@EnableAutoConfiguration` which contains the auto-configuration feature.
-Spring Boot will use auto configuration based on your classpath, annotations and configuration to create a suitable 
-application. 
+Spring Boot will use auto configuration based on your classpath (maven `pom.xml` in this case,
+ annotations and configuration to create a suitable application. 
 
 
