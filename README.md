@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nssachin/spring-boot-journal.svg?branch=master)](https://travis-ci.org/nssachin/spring-boot-journal)
+
 # spring-boot-journal
 Sample Spring Boot demo project from Pro Spring Boot book
 
