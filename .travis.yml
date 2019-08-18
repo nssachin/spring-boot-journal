@@ -4,5 +4,8 @@ jdk:
 
 script: mvn clean install
 
+before_install:
+  - chmod +x mvnw
+
 notifications:
   email: sachinjois@gmail.com
